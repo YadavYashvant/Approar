@@ -1,0 +1,13 @@
+pkgbase = approar
+	pkgdesc = Tool to build, install and run Android apps with USB debugging
+	pkgver = 1.0.0
+	pkgrel = 1
+	url = https://github.com/YadavYashvant/Approar
+	arch = any
+	license = MIT
+	depends = android-tools
+	depends = gradle
+	source = run-android-app.sh
+	sha256sums = SKIP
+
+pkgname = approar
